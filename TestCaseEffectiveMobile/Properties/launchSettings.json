@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestCaseEffectiveMobile": {
+      "commandName": "Project",
+      "commandLineArgs": "--file-log C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\testlog.txt --file-output C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\output.txt --time-start 07.04.2024 --time-end 08.04.2024 "
+    }
+  }
+}

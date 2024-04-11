@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|c:\\users\\matve\\documents\\programming\\c#\\testcaseeffectivemobile\\testcaseeffectivemobile\\parambuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|solutionrelative:testcaseeffectivemobile\\parambuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|c:\\users\\matve\\documents\\programming\\c#\\testcaseeffectivemobile\\testcaseeffectivemobile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|solutionrelative:testcaseeffectivemobile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|c:\\users\\matve\\documents\\programming\\c#\\testcaseeffectivemobile\\testcaseeffectivemobile\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|solutionrelative:testcaseeffectivemobile\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|c:\\users\\matve\\documents\\programming\\c#\\testcaseeffectivemobile\\testcaseeffectivemobile\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|solutionrelative:testcaseeffectivemobile\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|c:\\users\\matve\\documents\\programming\\c#\\testcaseeffectivemobile\\testcaseeffectivemobile\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46B08613-494B-4156-A3A0-B9DD1ED010C8}|TestCaseEffectiveMobile\\TestCaseEffectiveMobile.csproj|solutionrelative:testcaseeffectivemobile\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\Program.cs",
+              "RelativeDocumentMoniker": "TestCaseEffectiveMobile\\Program.cs",
+              "ToolTip": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\Program.cs",
+              "RelativeToolTip": "TestCaseEffectiveMobile\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:31:28.069Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParamBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\ParamBuilder.cs",
+              "RelativeDocumentMoniker": "TestCaseEffectiveMobile\\ParamBuilder.cs",
+              "ToolTip": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\ParamBuilder.cs",
+              "RelativeToolTip": "TestCaseEffectiveMobile\\ParamBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:04:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parameters.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\Parameters.cs",
+              "RelativeDocumentMoniker": "TestCaseEffectiveMobile\\Parameters.cs",
+              "ToolTip": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\Parameters.cs",
+              "RelativeToolTip": "TestCaseEffectiveMobile\\Parameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:03:57.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\LogEntry.cs",
+              "RelativeDocumentMoniker": "TestCaseEffectiveMobile\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\LogEntry.cs",
+              "RelativeToolTip": "TestCaseEffectiveMobile\\LogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:52:59.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\Filter.cs",
+              "RelativeDocumentMoniker": "TestCaseEffectiveMobile\\Filter.cs",
+              "ToolTip": "C:\\Users\\matve\\Documents\\programming\\c#\\TestCaseEffectiveMobile\\TestCaseEffectiveMobile\\Filter.cs",
+              "RelativeToolTip": "TestCaseEffectiveMobile\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:43:11.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
